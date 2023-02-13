@@ -1,0 +1,22 @@
+{
+  "kit": {
+    "version": "latest",
+    "dirs": true
+  },
+  "site": {
+    "id": "rec_cfl8u343o97qei7qap1g",
+    "name": "Hoax Directory",
+    "description": "Welcome to Hoax Directory",
+    "url": "https://hoax.directory",
+    "keyswords": "hoax, fakery, conspiracy"
+  },
+  "plugins": {
+    "theme": true,
+    "header": true,
+    "darkmode": true,
+    "toc": true,
+    "navbar": true,
+    "search": true,
+    "social": true
+  }
+}
